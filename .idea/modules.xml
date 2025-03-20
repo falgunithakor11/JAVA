@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Dsa Algo/Array Dsa Algo.iml" filepath="$PROJECT_DIR$/Array Dsa Algo/Array Dsa Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA ALGOCAMP/DSA ALGOCAMP.iml" filepath="$PROJECT_DIR$/DSA ALGOCAMP/DSA ALGOCAMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FalguniJava.iml" filepath="$PROJECT_DIR$/FalguniJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basic/Java Basic.iml" filepath="$PROJECT_DIR$/Java Basic/Java Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop Example/Loop Example.iml" filepath="$PROJECT_DIR$/Loop Example/Loop Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject/MyProject.iml" filepath="$PROJECT_DIR$/MyProject/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neso Academy/Neso Academy.iml" filepath="$PROJECT_DIR$/Neso Academy/Neso Academy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator and Conditions/Operator and Conditions.iml" filepath="$PROJECT_DIR$/Operator and Conditions/Operator and Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/college practical/college practical.iml" filepath="$PROJECT_DIR$/college practical/college practical.iml" />
+    </modules>
+  </component>
+</project>
